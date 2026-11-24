@@ -1,0 +1,8 @@
+{
+    "url": "",
+    "endpoints": {
+        "register": "users/register",
+        "login": "users/login",
+        "posts": "/posts/getPosts"
+    }
+}
